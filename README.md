@@ -82,15 +82,15 @@ The project follows a standard machine learning pipeline:
 
 
 # Visualizations
-1. Data Exploration
+### 1. Data Exploration
    ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/Data%20Exploration.png?raw=true)
 
 
-2. SHAP Feature Importance
+### 2. SHAP Feature Importance
   ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/SHAP%20value%20impact.png?raw=true)
 
    
-3. SHAP Individual Prediction Explanation
+### 3. SHAP Individual Prediction Explanation
    ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/SHAP%20Force.png?raw=true)
 
 # Key Insights from Data Analysis
