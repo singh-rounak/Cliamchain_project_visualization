@@ -90,3 +90,17 @@ Exploratory analysis of fraudulent claims revealed several patterns:
 * 99% of fraudulent claims had no witness
 
 These insights help insurers identify high-risk claim patterns.
+
+# Visualizations
+1. Data Exploration
+   ![image alt]()
+
+2. Model Performance Comparison
+  ![image alt]()
+
+3. SHAP Feature Importance
+  ![image alt]()
+
+   
+4. SHAP Individual Prediction Explanation
+   ![image alt]()
