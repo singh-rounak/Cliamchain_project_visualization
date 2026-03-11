@@ -1,4 +1,5 @@
 # Insurance Fraud Detection using Explainable AI (SHAP)
+![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/Cover%20Photo.png?raw=true)
 
 Machine learning project that detects fraudulent insurance claims using predictive models and interprets model decisions using SHAP (SHapley Additive Explanations) to improve transparency in fraud investigations.
 
@@ -93,14 +94,12 @@ These insights help insurers identify high-risk claim patterns.
 
 # Visualizations
 1. Data Exploration
-   ![image alt]()
+   ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/Data%20Exploration.png?raw=true)
 
-2. Model Performance Comparison
-  ![image alt]()
 
-3. SHAP Feature Importance
-  ![image alt]()
+2. SHAP Feature Importance
+  ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/SHAP%20value%20impact.png?raw=true)
 
    
-4. SHAP Individual Prediction Explanation
-   ![image alt]()
+3. SHAP Individual Prediction Explanation
+   ![image alt](https://github.com/singh-rounak/Cliamchain_project_visualization/blob/develop/images/SHAP%20Force.png?raw=true)
