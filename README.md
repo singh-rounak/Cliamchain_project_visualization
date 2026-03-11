@@ -59,3 +59,34 @@ SHAP helps answer critical questions:
 * How does each feature impact the model output?
 
 This is important in industries like insurance where model explainability is required for compliance and investigation processes.
+
+## Machine Learning Workflow
+
+The project follows a standard machine learning pipeline:
+
+1. Data preprocessing
+
+2. Exploratory data analysis (EDA)
+
+3. Feature engineering
+
+4. Model training
+
+5. Model evaluation
+
+6. Explainability analysis using SHAP
+
+7. Visualization of fraud risk patterns
+
+
+# Key Insights from Data Analysis
+
+Exploratory analysis of fraudulent claims revealed several patterns:
+
+• 88.6% of fraud cases involved male claimants
+• 67.2% of fraud cases involved married individuals
+• Average fraudster age ≈ 38 years
+• 98% of fraudulent claims had no police report
+• 99% of fraudulent claims had no witness
+
+These insights help insurers identify high-risk claim patterns.
