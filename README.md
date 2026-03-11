@@ -83,10 +83,10 @@ The project follows a standard machine learning pipeline:
 
 Exploratory analysis of fraudulent claims revealed several patterns:
 
-• 88.6% of fraud cases involved male claimants
-• 67.2% of fraud cases involved married individuals
-• Average fraudster age ≈ 38 years
-• 98% of fraudulent claims had no police report
-• 99% of fraudulent claims had no witness
+* 88.6% of fraud cases involved male claimants
+* 67.2% of fraud cases involved married individuals
+* Average fraudster age ≈ 38 years
+* 98% of fraudulent claims had no police report
+* 99% of fraudulent claims had no witness
 
 These insights help insurers identify high-risk claim patterns.
