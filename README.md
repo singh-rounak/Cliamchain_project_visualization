@@ -79,7 +79,8 @@ The project follows a standard machine learning pipeline:
 
 7. Visualization of fraud risk patterns
 
-
+### NOTE :
+***Detailed steps and model outputs with accuracy for individual classifiers can be found in the ClaimChain_Visualization.ipynb file.***
 
 # Visualizations
 ### 1. Data Exploration
